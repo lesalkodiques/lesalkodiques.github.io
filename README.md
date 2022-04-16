@@ -1,2 +1,1 @@
-# lesalkodiques.github.io
-répertoire index des alKODIques
+## Gestionnaire de fichiers kodi: https://lesalkodiques.github.io
