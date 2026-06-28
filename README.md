@@ -1,7 +1,7 @@
 ### Gestionnaire de fichiers kodi: `https://lesalkodiques.github.io`
 
 - Players TMDb-Helper pour vStream: `https://lesalkodiques.github.io/players.zip`
-- Les players TMDb-Helper pour alkoFlix sont disponibles directement dans les réglages de l'extension.
+- Les players TMDb-Helper pour alkoFlix sont disponibles directement via `réglages de l'extension > Onglet Lecture > Installer les players TMDbH`
 
 # Dépôt alkoFlix 1.0.1
 
