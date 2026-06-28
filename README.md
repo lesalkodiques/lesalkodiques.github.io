@@ -1,10 +1,10 @@
-## Gestionnaire de fichiers kodi: https://lesalkodiques.github.io
+### Gestionnaire de fichiers kodi: https://lesalkodiques.github.io
 
-### Players TMDb Helper pour vStream: https://lesalkodiques.github.io/players.zip
+- Players TMDb Helper pour vStream: `https://lesalkodiques.github.io/players.zip`
 
 # Dépôt alkoFlix 1.0.1
 
-Dépôt Kodi officiel pour alkoFlix et ses extensions associées.
+Le dépôt Kodi officiel pour alkoFlix est accessible dans cette source
 
 ## Installation
 
