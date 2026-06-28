@@ -22,6 +22,6 @@ Le dépôt Kodi officiel pour alkoFlix est accessible dans cette source
 Une fois le dépôt installé, les prochaines mises à jour d’alkoFlix seront proposées automatiquement par Kodi.
 
 ## Informations complémentaires
-- Les signalements de bogues seront traités uniquement via [le forum officiel de l'extension](https://lesalkodiques.com/portail/space/alkoflix/home)
+- Les signalements de bogues et demands de fonctionnalités supplémentaires seront traités uniquement via [le forum officiel de l'extension](https://lesalkodiques.com/portail/space/alkoflix/home)
 - Le guide d'utilisation de l'estension est [accessible ici](https://lesalkodiques.com/portail/course/configurationdebasealkoflix/lessons)
 - Consultez [le forum officiel de l'extension](https://lesalkodiques.com/portail/course/configurationdebasealkoflix/lessons) si vous avez des questions et/ou besoin d'informations supplémentaires en lien avec l'installation, la configuration et l'utilisation d'alkoFlix :)
